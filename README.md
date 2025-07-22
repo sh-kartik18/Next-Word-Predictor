@@ -1,4 +1,11 @@
 # 🧠 Next-Word Predictor using LSTM
+![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12.0-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Sequential%20Model-red?logo=keras)
+![LSTM](https://img.shields.io/badge/Model-LSTM-brightgreen)
+![NLP](https://img.shields.io/badge/Task-Next%20Word%20Prediction-purple)
+![Text Data](https://img.shields.io/badge/Data-Gutenberg.org-blue)
+![Tokenizer](https://img.shields.io/badge/Tokenizer-Keras-yellow)
 
 ---
 
